@@ -49,7 +49,7 @@ Highlight gaps in the inventory and optimize stock levels.
 
 3. How can we categorize all movies based on their rental rates and determine the count of movies in each category?
 
-[<img src="./IMAGES/IMG_MYSQL.jpg" alt="IMG_MYSQL.jpg" width="100"/>](https://www.mysql.com/) &nbsp;
+[<img src="./IMAGES/TOTAL_NO_OF_MOVIES.png" alt="TOTAL_NO_OF_MOVIES.png" width="200"/>](https://www.mysql.com/) &nbsp;
 
 
 4. Which movie rating (e.g., PG, PG-13, R) has the highest number of titles in the inventory, and how can this information help optimize inventory management?
