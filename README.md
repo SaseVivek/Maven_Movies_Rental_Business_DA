@@ -75,11 +75,11 @@ Highlight gaps in the inventory and optimize stock levels.
 
 9.Which store has historically brought the most revenue?
 
-<img src="./IMAGES/TLC.png" alt="TLC.png" width="400"/> &nbsp;
+<img src="./IMAGES/MOST_REVENUE.png" alt="MOST_REVENUE.png" width="400"/> &nbsp;
 
-10.How many rentals we have rach month?
+10.How many rentals we have each month?
 
-<img src="./IMAGES/TLC.png" alt="TLC.png" width="400"/> &nbsp;
+<img src="./IMAGES/RENTALS_PER_MONTH.png" alt="RENTALS_PER_MONTH.png" width="400"/> &nbsp;
 
 11.Reward users who have rented at least 30 times (With details of customers).
 
