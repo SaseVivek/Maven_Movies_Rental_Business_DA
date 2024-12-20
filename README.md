@@ -65,5 +65,34 @@ Highlight gaps in the inventory and optimize stock levels.
 
 <img src="./IMAGES/TLC.png" alt="TLC.png" width="400"/> &nbsp;
 
+7.How many times each movie has been rented out?
 
+<img src="./IMAGES/TLC.png" alt="TLC.png" width="400"/> &nbsp;
 
+8.Revenue per film (Top 10 Grossers)
+
+<img src="./IMAGES/TLC.png" alt="TLC.png" width="400"/> &nbsp;
+
+9.Which store has historically brought the most revenue?
+
+<img src="./IMAGES/TLC.png" alt="TLC.png" width="400"/> &nbsp;
+
+10.How many rentals we have rach month?
+
+<img src="./IMAGES/TLC.png" alt="TLC.png" width="400"/> &nbsp;
+
+11.Reward users who have rented at least 30 times (With details of customers).
+
+<img src="./IMAGES/TLC.png" alt="TLC.png" width="400"/> &nbsp;
+
+12.Could you pull all payments from our first 100 customers (Based on customers id)
+
+<img src="./IMAGES/TLC.png" alt="TLC.png" width="400"/> &nbsp;
+
+13.Now I’d love to see just payments over $5 for those same customers, since January 1, 2006
+
+<img src="./IMAGES/TLC.png" alt="TLC.png" width="400"/> &nbsp;
+
+14.Now, could you please write a query to pull all payments from those specific customers, along with payments over $5, from any customer?
+
+<img src="./IMAGES/TLC.png" alt="TLC.png" width="400"/> &nbsp;
