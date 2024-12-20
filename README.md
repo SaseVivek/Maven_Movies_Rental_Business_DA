@@ -83,16 +83,16 @@ Highlight gaps in the inventory and optimize stock levels.
 
 11.Reward users who have rented at least 30 times (With details of customers).
 
-<img src="./IMAGES/TLC.png" alt="TLC.png" width="400"/> &nbsp;
+<img src="./IMAGES/REWARD_VIA_PHONE.png" alt="REWARD_VIA_PHONE.png" width="400"/> &nbsp;
 
 12.Could you pull all payments from our first 100 customers (Based on customers id)
 
-<img src="./IMAGES/TLC.png" alt="TLC.png" width="400"/> &nbsp;
+<img src="./IMAGES/FIRST_100_CUSTOMER_PAYMENTS.png" alt="FIRST_100_CUSTOMER_PAYMENTS.png" width="400"/> &nbsp;
 
 13.Now I’d love to see just payments over $5 for those same customers, since January 1, 2006
 
-<img src="./IMAGES/TLC.png" alt="TLC.png" width="400"/> &nbsp;
+<img src="./IMAGES/JAN_06_2006.png" alt="JAN_06_2006.png" width="400"/> &nbsp;
 
 14.Now, could you please write a query to pull all payments from those specific customers, along with payments over $5, from any customer?
 
-<img src="./IMAGES/TLC.png" alt="TLC.png" width="400"/> &nbsp;
+<img src="./IMAGES/PAYMENTS_OVER_$5.png" alt="PAYMENTS_OVER_$5.png" width="400"/> &nbsp;
