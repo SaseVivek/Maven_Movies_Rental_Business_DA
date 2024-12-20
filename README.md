@@ -101,9 +101,9 @@ Highlight gaps in the inventory and optimize stock levels.
 
 <img src="./IMAGES/BTS.png" alt="BTS.png" width="400"/> &nbsp;
 
-16.Unique movie ratings and number of movies.
+16.Most Spending Customer so that we can send him/her rewards or debate points.
 
-<img src="./IMAGES/UNI_MOVIES_RATINGS_&_NO_OF_MOVIES.png" alt="UNI_MOVIES_RATINGS_&_NO_OF_MOVIES.png" width="400"/> &nbsp;
+<img src="./IMAGES/MOST_SPENDING_CUSTOMER.png" alt="MOST_SPENDING_CUSTOMER.png" width="400"/> &nbsp;
 
 17.Could you please pull a count of titles sliced by rental duration?
 
@@ -117,4 +117,14 @@ Highlight gaps in the inventory and optimize stock levels.
 
 <img src="./IMAGES/MIN_MAX_AVG.png" alt="MIN_MAX_AVG.png" width="400"/> &nbsp;
 
-20. 
+20. CATEGORIZING MOVIES TO RECOMMEND VARIOUS AGE GROUPS AND DEMOGRAPHIC.
+
+<img src="./IMAGES/FIT_FOR_RECOMMENDATION.png" alt="FIT_FOR_RECOMMENDATION.png" width="400"/> &nbsp;
+
+21. “I’d like to know which store each customer goes to, and whether or not they are active. Could you pull a list of first and last names of all customers, and label them as either ‘store 1 active’, ‘store 1 inactive’, ‘store 2 active’, or ‘store 2 inactive’?”
+
+<img src="./IMAGES/ACTIVE_STORE.png" alt="ACTIVE_STORE.png" width="400"/> &nbsp;
+
+22. “Can you pull for me a list of each film we have in inventory? I would like to see the film’s title, description, and the store_id value associated with each item, and its inventory_id. Thanks!”
+
+<img src="./IMAGES/FILMS_IN_INVENTORY.png" alt="FILMS_IN_INVENTORY.png" width="400"/> &nbsp;   
