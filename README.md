@@ -67,11 +67,11 @@ Highlight gaps in the inventory and optimize stock levels.
 
 7.How many times each movie has been rented out?
 
-<img src="./IMAGES/TLC.png" alt="TLC.png" width="400"/> &nbsp;
+<img src="./IMAGES/popularity.png" alt="popularity.png" width="400"/> &nbsp;
 
 8.Revenue per film (Top 10 Grossers)
 
-<img src="./IMAGES/TLC.png" alt="TLC.png" width="400"/> &nbsp;
+<img src="./IMAGES/REVENUE.png" alt="REVENUE.png" width="400"/> &nbsp;
 
 9.Which store has historically brought the most revenue?
 
