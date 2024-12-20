@@ -96,3 +96,17 @@ Highlight gaps in the inventory and optimize stock levels.
 14.Now, could you please write a query to pull all payments from those specific customers, along with payments over $5, from any customer?
 
 <img src="./IMAGES/PAYMENTS_OVER_$5.png" alt="PAYMENTS_OVER_$5.png" width="400"/> &nbsp;
+
+15.We need to understand the special features in our films. Could you pull a list of films which include a Behind the Scenes special feature?
+
+<img src="./IMAGES/BTS.png" alt="BTS.png" width="400"/> &nbsp;
+
+16.Unique movie ratings and number of movies.
+
+<img src="./IMAGES/UNI_MOVIES_RATINGS_&_NO_OF_MOVIES.png" alt="UNI_MOVIES_RATINGS_&_NO_OF_MOVIES.png" width="400"/> &nbsp;
+
+17.Could you please pull a count of titles sliced by rental duration?
+
+<img src="./IMAGES/SLICED_BY_RENTAL_RATE.png" alt="SLICED_BY_RENTAL_RATE.png" width="400"/> &nbsp;
+
+18.
