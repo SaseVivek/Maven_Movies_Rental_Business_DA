@@ -63,7 +63,7 @@ Highlight gaps in the inventory and optimize stock levels.
 
 6. List of films by Film Name, Category, Language.
 
-[<img src="./IMAGES/TOTAL_FILMS.png" alt="TOTAL_FILMS.png" width="400"/>] &nbsp;
+[<img src="./IMAGES/TLC.png" alt="TLC.png" width="400"/>] &nbsp;
 
 
 
