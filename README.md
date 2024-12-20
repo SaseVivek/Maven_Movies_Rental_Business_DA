@@ -109,4 +109,12 @@ Highlight gaps in the inventory and optimize stock levels.
 
 <img src="./IMAGES/SLICED_BY_RENTAL_RATE.png" alt="SLICED_BY_RENTAL_RATE.png" width="400"/> &nbsp;
 
-18.
+18.RATING, COUNT_MOVIES,LENGTH OF MOVIES AND COMPARE WITH RENTAL DURATION
+
+<img src="./IMAGES/COMPARE_WITH_RENTAL_DURATION.png" alt="COMPARE_WITH_RENTAL_DURATION.png" width="400"/> &nbsp;
+
+19. I’m wondering if we charge more for a rental when the replacement cost is higher. Can you help me pull a count of films, along with the average, min, and max rental rate, grouped by replacement cost?
+
+<img src="./IMAGES/MIN_MAX_AVG.png" alt="MIN_MAX_AVG.png" width="400"/> &nbsp;
+
+20. 
