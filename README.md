@@ -82,6 +82,7 @@ Highlight gaps in the inventory and optimize stock levels.
 <img src="./IMAGES/RENTALS_PER_MONTH.png" alt="RENTALS_PER_MONTH.png" width="400"/> &nbsp;
 
 11. "How do we determine the rewards for users who have rented 30 or more times, and what details about their preferences should we consider?"
+
 <img src="./IMAGES/REWARD_VIA_PHONE.png" alt="REWARD_VIA_PHONE.png" width="400"/> &nbsp;
 
 12. "Could you pull all payments from our first 100 customers (Based on customers id)"
